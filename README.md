@@ -13,6 +13,7 @@ This repository is organized by visualization types:
 - **05-histogram**: Data distribution through histograms.
 - **06-box-plot**: Statistical summaries with box plots.
 - **07-stack**: Cumulative data over time or categories.
+- **08-sub-plots**: Multiple visualizations in a single figure.
 
 ## Resources
 
